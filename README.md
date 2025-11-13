@@ -114,10 +114,9 @@ Loan-Default-Prediction-Neural-Network/
 │     ├── lending_club_info.csv
 │     └── lending_club_loan_two.csv
 └── models/
-      └── final_model.h5   (optional)
+      └── final_model.h5   
 ```
 
-If data files are too large to upload, include a note on where to download them.
 
 ---
 

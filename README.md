@@ -8,7 +8,7 @@
 This project builds a neural network using **Keras (TensorFlow)** to predict whether a loan issued by **LendingClub** will be **fully repaid** or **charged off**.  
 The project includes complete data cleaning, feature engineering, exploratory analysis, and model evaluation.
 
-It follows a **real-world data science workflow** and is one of my most comprehensive projects.
+It follows a **real-world data science workflow** and is one of my most comprehensive projects I completed during the Python for Data Science and Machine Learning Bootcamp Course on Udemy
 
 ---
 

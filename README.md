@@ -93,7 +93,7 @@ Final evaluation metrics (accuracy + confusion matrix) are included in the noteb
 
 ---
 
-##**What This Project Demonstrates**
+## **What This Project Demonstrates**
 
 - Real-world handling of large, messy financial datasets  
 - Proper preprocessing pipeline  

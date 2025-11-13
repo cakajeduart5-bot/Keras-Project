@@ -46,18 +46,18 @@ These include variables such as:
 
 ## **Data Preprocessing Steps**
 
-✔ Removed irrelevant or data-leakage columns  
-✔ Created binary target variable:
+Removed irrelevant or data-leakage columns  
+Created binary target variable:
 
 ```python
 df['loan_repaid'] = df['loan_status'].map({'Fully Paid': 1, 'Charged Off': 0})
 ```
 
-✔ Dropped the original `loan_status` column afterwards  
-✔ Explored distributions with visualisations  
-✔ Performed one-hot encoding for categorical variables  
-✔ Normalised numerical features  
-✔ Split data into training and test sets  
+Dropped the original `loan_status` column afterwards  
+Explored distributions with visualisations  
+Performed one-hot encoding for categorical variables  
+Normalised numerical features  
+Split data into training and test sets  
 
 ---
 

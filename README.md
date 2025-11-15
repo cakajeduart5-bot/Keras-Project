@@ -134,12 +134,5 @@ Loan-Default-Prediction-Neural-Network/
 
 3. Run all cells in order.
 
----
-
-## **Contact**
-
-**Eduart Cakaj**  
-📧 cakajeduart5@gmail.com  
-🔗 GitHub: https://github.com/cakajeduart5-bot  
 
 ---
